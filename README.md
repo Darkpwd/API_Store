@@ -37,7 +37,7 @@ querying for featured products and retrieving all products statically.
 - Dependencies (see `package.json` )
   **Installation**
 
-<||WXb23TXrUn3Rxz00yNNr89HV||>1 **.** **Clone the repository:**
+1 **.** **Clone the repository:**
 
 `git` `clone` `<repository-url` `>`
 `cd API_Store`
@@ -94,7 +94,7 @@ querying for featured products and retrieving all products statically.
 | "rating": 4.5           |
 | }                       |
 
-<||WXb23TXrUn3Rxz00yNNr89HV||>`]`
+`]`
 `}`
 
 **GET** `/api/v1/products/static`
@@ -147,7 +147,7 @@ The `Product` model has the following fields:
 | "rating": 5.0           |
 | }                       |
 
-<||WXb23TXrUn3Rxz00yNNr89HV||>##### 5. Error Handling
+##### 5. Error Handling
 
 Errors are handled gracefully with appropriate status codes and messages. Example:
 
@@ -177,4 +177,4 @@ This API was independently developed by **Gustavo** / **Darkpwd** .
 | "products": [] |
 | }              |
 
-<||WXb23TXrUn3Rxz00yNNr89HV||>
+
